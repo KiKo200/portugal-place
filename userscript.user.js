@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Portugal Overlay v2.0
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.3
 // @description  r/place!
 // @author       Some anon
 // @match        https://hot-potato.reddit.com/embed*
