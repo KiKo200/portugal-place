@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Portugal Overlay
+// @name         Portugal Overlay v2.0
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  r/place!
